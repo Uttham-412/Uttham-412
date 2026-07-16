@@ -19,12 +19,12 @@
 </a>
 
 <!-- Replace with your real LinkedIn URL -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/uttham-poojary">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <!-- Replace with your email -->
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:uttham188@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -36,7 +36,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 I'm an **Artificial Intelligence & Machine Learning undergraduate** passionate about building intelligent software and scalable web applications.
 
@@ -145,164 +145,6 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uttham-412&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Uttham-412">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🎯 CareerPath AI
-
-AI-powered career recommendation platform that analyzes resumes, identifies skill gaps, and recommends personalized career paths using NLP and Machine Learning.
-
-**Tech Stack**
-
-`React` `Python` `FastAPI` `MongoDB` `NLP`
-
-🔗 **Repository:** *(Add your repository link here)*
-
-</td>
-
-<td width="50%">
-
-<img src="./screenshots/careerpath.png" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="./screenshots/snapnotes.png" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-## 📝 SnapNotesAI
-
-Convert handwritten notes into digital notes using OCR and AI-generated summaries.
-
-**Tech Stack**
-
-`React Native` `Firebase` `Gemini API` `OCR`
-
-🔗 **Repository:** *(Add your repository link here)*
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🌐 Portfolio
-
-A modern developer portfolio showcasing projects, skills, and achievements with responsive design and smooth animations.
-
-**Tech Stack**
-
-`Next.js` `React` `Tailwind CSS`
-
-🔗 **Live Demo:** https://uttham.vercel.app
-
-</td>
-
-<td width="50%">
-
-<img src="./screenshots/portfolio.png" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="./screenshots/educareer.png" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-## 🎓 EduCareer
-
-An AI-powered platform for resume analysis, career guidance, and personalized opportunity recommendations.
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
-🔗 **Repository:** *(Add your repository link here)*
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💼 Experience
-
-### IBM SkillsBuild – AI Intern
-
-📅 March 2026 – April 2026
-
-- Worked on AI-powered applications.
-- Built practical machine learning projects.
-- Learned industry-standard AI development practices.
-
----
-
 # 🏆 Achievements
 
 - 🥇 Forensic Analyser Award – CYNEX CyberSiege CTF
@@ -310,15 +152,6 @@ An AI-powered platform for resume analysis, career guidance, and personalized op
 - 🚀 Developed multiple AI & Full Stack projects
 - 💻 Active GitHub contributor
 
----
-
-# 📜 Certifications
-
-- IBM SkillsBuild – Agentic AI
-- IBM SkillsBuild – AI Internship
-- Git & GitHub
-- Cloud Computing
-- Machine Learning
 
 ---# 📫 Connect With Me
 
@@ -355,22 +188,17 @@ An AI-powered platform for resume analysis, career guidance, and personalized op
 </p>
 
 ---
-
-# 💙 Thanks for Visiting
+---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+### Thanks for visiting my profile.
 
-<img src="https://komarev.com/ghpvc/?username=Uttham-412&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+Building scalable software with AI, Machine Learning, and Modern Web Technologies.
 
-<br><br>
-
-*"Code. Learn. Build. Repeat."*
+<img src="https://komarev.com/ghpvc/?username=Uttham-412&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
-
----
 
 <p align="center">
 <img src="./assets/wave.svg" width="100%" alt="Footer Wave"/>
