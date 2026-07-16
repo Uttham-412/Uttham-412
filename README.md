@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
-# Hi , I'm **Uttham Poojary**
+# Hi, I'm Uttham Poojary
 
 ### Artificial Intelligence & Machine Learning Undergraduate
 
@@ -42,7 +42,7 @@ I'm an **Artificial Intelligence & Machine Learning undergraduate** passionate a
 
 I enjoy combining **AI, backend development, and modern frontend technologies** to solve real-world problems through practical projects.
 
-###  Current Focus
+##  Focus Area
 
 -  Artificial Intelligence & Machine Learning
 -  Full Stack Development
@@ -79,7 +79,9 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 -  Based in India
 -  Coffee + Code = Productivity
 -  Goal: Build impactful AI-powered products
-#  Tech Stack
+ ---
+
+##  Tech Stack
 
 <div align="center">
 
@@ -122,8 +124,9 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
+---
 
-#  GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -143,7 +146,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-#  Contribution Activity
+##  Contribution Activity
 
 <p align="center">
 
@@ -153,7 +156,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-#  Achievements
+##  Achievements
 
 -  Forensic Analyser Award – CYNEX CyberSiege CTF
 -  IBM SkillsBuild AI Internship
@@ -163,7 +166,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-#  Contribution Snake
+##  Contribution Snake
 
 <p align="center">
 
@@ -171,7 +174,6 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 </p>
 
----
 ---
 
 <div align="center">
