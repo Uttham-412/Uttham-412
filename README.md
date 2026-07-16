@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
-# Hi 👋, I'm **Uttham Poojary**
+# Hi , I'm **Uttham Poojary**
 
 ### Artificial Intelligence & Machine Learning Undergraduate
 
@@ -42,27 +42,27 @@ I'm an **Artificial Intelligence & Machine Learning undergraduate** passionate a
 
 I enjoy combining **AI, backend development, and modern frontend technologies** to solve real-world problems through practical projects.
 
-### 🚀 Current Focus
+###  Current Focus
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full Stack Development
-- 🌐 REST APIs & Backend Systems
-- ☁ Cloud & DevOps Fundamentals
-- 📈 Data Structures & Algorithms
-- 🚀 Open Source Contributions
-
----
-
-## 🎯 Currently Working On
-
-- 🚀 CareerPath AI
-- 📝 SnapNotesAI
-- 🌐 Personal Portfolio
-- 📚 Java DSA & LeetCode
+-  Artificial Intelligence & Machine Learning
+-  Full Stack Development
+-  REST APIs & Backend Systems
+-  Cloud & DevOps Fundamentals
+-  Data Structures & Algorithms
+-  Open Source Contributions
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Working On
+
+-  CareerPath AI
+-  SnapNotesAI
+-  Personal Portfolio
+-  Java DSA & LeetCode
+
+---
+
+##  Currently Learning
 
 - Docker
 - Kubernetes
@@ -72,42 +72,42 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-## ⚡ Quick Facts
+##  Quick Facts
 
-- 🎓 AIML Undergraduate
-- 💼 Interested in Software Development & AI Engineering
-- 🌍 Based in India
-- ☕ Coffee + Code = Productivity
-- 🎯 Goal: Build impactful AI-powered products
-# 🚀 Tech Stack
+-  AIML Undergraduate
+-  Interested in Software Development & AI Engineering
+-  Based in India
+-  Coffee + Code = Productivity
+-  Goal: Build impactful AI-powered products
+#  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 
 <br><br>
 
-### 🌐 Frontend
+###  Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
 <br><br>
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase" />
 
 <br><br>
 
-### 🗄️ Databases
+###  Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
 <br><br>
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Generative%20AI-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -117,13 +117,13 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 <br>
 
-### 🛠️ Tools
+###  Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -143,7 +143,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <p align="center">
 
@@ -153,41 +153,17 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-- 🥇 Forensic Analyser Award – CYNEX CyberSiege CTF
-- 🏅 IBM SkillsBuild AI Internship
-- 🚀 Developed multiple AI & Full Stack projects
-- 💻 Active GitHub contributor
+-  Forensic Analyser Award – CYNEX CyberSiege CTF
+-  IBM SkillsBuild AI Internship
+-  Developed multiple AI & Full Stack projects
+-  Active GitHub contributor
 
-
-📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Uttham-412">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://uttham.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<!-- Replace with your LinkedIn profile -->
-<a href="https://www.linkedin.com/in/uttham-poojary">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- Replace with your email -->
-<a href="mailto:uttham188@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
 
@@ -196,7 +172,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 </p>
 
 ---
-
+---
 
 <div align="center">
 
