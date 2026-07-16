@@ -210,4 +210,4 @@ Building scalable software with AI, Machine Learning, and Modern Web Technologie
 <p align="center">
 <img src="./assets/wave.svg" width="100%" alt="Footer Wave"/>
 </p>
----
+
