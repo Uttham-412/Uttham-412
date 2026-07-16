@@ -126,23 +126,14 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 </div>
 ---
 
-##  GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Uttham-412&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+## GitHub Statistics
 
-<img height="170" src="https://streak-stats.demolab.com?user=Uttham-412&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uttham-412&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttham-412&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
