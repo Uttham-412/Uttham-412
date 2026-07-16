@@ -126,23 +126,23 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 </div>
 ---
 
-## GitHub Analytics
+##  GitHub Analytics
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Uttham-412&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-       alt="GitHub Stats" />
+<div align="center">
 
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=Uttham-412&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Uttham-412&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<p align="center">
-  <img width="45%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttham-412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-       alt="Top Languages" />
-</p>
+<img height="170" src="https://streak-stats.demolab.com?user=Uttham-412&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uttham-412&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
