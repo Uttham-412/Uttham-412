@@ -196,7 +196,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 </p>
 
 ---
----
+
 
 <div align="center">
 
