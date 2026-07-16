@@ -124,16 +124,6 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
----
-
-
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uttham-412&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
 
 ---
 
