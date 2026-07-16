@@ -204,7 +204,6 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 Building scalable software with AI, Machine Learning, and Modern Web Technologies.
 
-<img src="https://komarev.com/ghpvc/?username=Uttham-412&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
