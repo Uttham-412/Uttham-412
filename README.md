@@ -161,7 +161,7 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 - 💻 Active GitHub contributor
 
 
----# 📫 Connect With Me
+📫 Connect With Me
 
 <div align="center">
 
