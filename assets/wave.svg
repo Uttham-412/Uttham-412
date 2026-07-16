@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1440 180">
+
+<defs>
+
+<linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#2563EB">
+        <animate attributeName="stop-color"
+                 values="#2563EB;#38BDF8;#2563EB"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+    </stop>
+
+    <stop offset="100%" stop-color="#38BDF8">
+        <animate attributeName="stop-color"
+                 values="#38BDF8;#60A5FA;#38BDF8"
+                 dur="8s"
+                 repeatCount="indefinite"/>
+    </stop>
+
+</linearGradient>
+
+</defs>
+
+<path fill="url(#waveGradient)" fill-opacity="1">
+
+<animate attributeName="d"
+
+dur="12s"
+
+repeatCount="indefinite"
+
+values="
+
+M0,96L60,101.3C120,107,240,117,360,112C480,107,600,85,720,85.3C840,85,960,107,1080,112C1200,117,1320,107,1380,101.3L1440,96L1440,180L1380,180C1320,180,1200,180,1080,180C960,180,840,180,720,180C600,180,480,180,360,180C240,180,120,180,60,180L0,180Z;
+
+M0,80L60,90C120,100,240,120,360,110C480,100,600,70,720,80C840,90,960,120,1080,110C1200,100,1320,80,1380,70L1440,60L1440,180L0,180Z;
+
+M0,96L60,101.3C120,107,240,117,360,112C480,107,600,85,720,85.3C840,85,960,107,1080,112C1200,117,1320,107,1380,101.3L1440,96L1440,180L0,180Z
+
+"/>
+
+</path>
+
+</svg>
