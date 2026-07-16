@@ -1,157 +1,202 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Background -->
+
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="50%" stop-color="#172554"/>
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0F172A"/>
       <stop offset="100%" stop-color="#1E3A8A"/>
     </linearGradient>
 
-    <!-- Accent -->
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%">
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%">
       <stop offset="0%" stop-color="#38BDF8"/>
       <stop offset="100%" stop-color="#2563EB"/>
     </linearGradient>
 
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40"
+            fill="none"
+            stroke="#ffffff"
+            stroke-opacity="0.05"/>
+    </pattern>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="30"/>
     </filter>
 
-    <!-- Grid Pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
-    </pattern>
   </defs>
 
   <!-- Background -->
+
   <rect width="1280" height="320" fill="url(#bg)"/>
 
-  <!-- Grid -->
   <rect width="1280" height="320" fill="url(#grid)"/>
 
-  <!-- Decorative circles -->
-  <circle cx="1080" cy="90" r="120" fill="#38BDF8" opacity="0.08"/>
-  <circle cx="1125" cy="210" r="80" fill="#2563EB" opacity="0.10"/>
+  <!-- Decorative Glow -->
+
+  <circle cx="1080" cy="70"
+          r="140"
+          fill="#2563EB"
+          opacity="0.18"
+          filter="url(#blur)"/>
+
+  <circle cx="1180" cy="240"
+          r="90"
+          fill="#38BDF8"
+          opacity="0.15"
+          filter="url(#blur)"/>
 
   <!-- Left Accent -->
-  <rect x="70" y="55" width="6" height="210" rx="4" fill="url(#accent)"/>
+
+  <rect
+      x="80"
+      y="55"
+      width="6"
+      height="210"
+      rx="3"
+      fill="url(#line)"/>
 
   <!-- Initials -->
+
+  <circle
+      cx="150"
+      cy="90"
+      r="32"
+      fill="#0F172A"
+      stroke="#38BDF8"
+      stroke-width="2"/>
+
   <text
-      x="112"
-      y="108"
-      font-family="Segoe UI, Arial"
-      font-size="54"
+      x="150"
+      y="100"
+      text-anchor="middle"
+      font-family="Segoe UI"
+      font-size="24"
       font-weight="700"
-      fill="#38BDF8"
-      filter="url(#glow)">
+      fill="#38BDF8">
+
       UP
+
   </text>
 
   <!-- Name -->
+
   <text
-      x="110"
-      y="150"
-      font-family="Segoe UI, Arial"
+      x="200"
+      y="95"
+      font-family="Segoe UI"
       font-size="42"
       font-weight="700"
       fill="#FFFFFF">
+
       UTTHAM POOJARY
+
   </text>
 
   <!-- Title -->
+
   <text
-      x="110"
-      y="185"
-      font-family="Segoe UI, Arial"
+      x="200"
+      y="140"
+      font-family="Segoe UI"
       font-size="22"
       fill="#BFDBFE">
+
       Artificial Intelligence &amp; Machine Learning Undergraduate
+
   </text>
 
-  <!-- Subtitle -->
+  <!-- Role -->
+
   <text
-      x="110"
-      y="218"
-      font-family="Segoe UI, Arial"
-      font-size="18"
+      x="200"
+      y="178"
+      font-family="Segoe UI"
+      font-size="20"
       fill="#CBD5E1">
-      Full Stack Developer • AI Engineer • Open Source Enthusiast
-  </text>
 
-  <!-- Tech Stack -->
-  <text
-      x="110"
-      y="255"
-      font-family="Segoe UI, Arial"
-      font-size="17"
-      fill="#38BDF8">
-      Java • Python • React • Node.js • MongoDB • Docker
+      Full Stack Developer • AI Engineer
+
   </text>
 
   <!-- Divider -->
+
   <line
-      x1="110"
-      y1="275"
-      x2="760"
-      y2="275"
-      stroke="url(#accent)"
+      x1="200"
+      y1="198"
+      x2="690"
+      y2="198"
+      stroke="url(#line)"
       stroke-width="2"/>
 
-  <!-- Quote -->
+  <!-- Skills -->
+
   <text
-      x="110"
-      y="298"
-      font-family="Segoe UI, Arial"
-      font-size="15"
-      fill="#94A3B8">
-      Building intelligent software through AI and modern web technologies.
+      x="200"
+      y="235"
+      font-family="Segoe UI"
+      font-size="18"
+      fill="#38BDF8">
+
+      Java  •  Python  •  React  •  Node.js  •  Generative AI
+
   </text>
 
-  <!-- Right decorative cards -->
-  <rect x="930" y="65" width="250" height="52" rx="12"
-        fill="#FFFFFF" fill-opacity="0.06"
-        stroke="#38BDF8" stroke-opacity="0.25"/>
+  <!-- Right Card -->
+
+  <rect
+      x="920"
+      y="80"
+      width="270"
+      height="160"
+      rx="18"
+      fill="#FFFFFF"
+      fill-opacity="0.05"
+      stroke="#38BDF8"
+      stroke-opacity="0.30"/>
 
   <text
       x="955"
-      y="98"
+      y="125"
       font-family="Segoe UI"
-      font-size="17"
-      fill="#E2E8F0">
-      AI • ML • Full Stack
-  </text>
+      font-size="18"
+      fill="#FFFFFF">
 
-  <rect x="930" y="140" width="250" height="52" rx="12"
-        fill="#FFFFFF" fill-opacity="0.06"
-        stroke="#38BDF8" stroke-opacity="0.25"/>
+      Tech Focus
+
+  </text>
 
   <text
       x="955"
-      y="173"
+      y="160"
       font-family="Segoe UI"
-      font-size="17"
-      fill="#E2E8F0">
-      Problem Solver &amp; Builder
-  </text>
+      font-size="16"
+      fill="#CBD5E1">
 
-  <rect x="930" y="215" width="250" height="52" rx="12"
-        fill="#FFFFFF" fill-opacity="0.06"
-        stroke="#38BDF8" stroke-opacity="0.25"/>
+      • AI &amp; Machine Learning
+
+  </text>
 
   <text
       x="955"
-      y="248"
+      y="188"
       font-family="Segoe UI"
-      font-size="17"
-      fill="#E2E8F0">
-      github.com/Uttham-412
+      font-size="16"
+      fill="#CBD5E1">
+
+      • Full Stack Development
+
+  </text>
+
+  <text
+      x="955"
+      y="216"
+      font-family="Segoe UI"
+      font-size="16"
+      fill="#CBD5E1">
+
+      • REST APIs
+
   </text>
 
 </svg>
