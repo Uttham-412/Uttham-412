@@ -85,35 +85,43 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 
 <br><br>
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
 <br><br>
 
-### ⚙ Backend
+### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
-
-<br><br>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase" />
 
 <br><br>
 
-### 🛠 Tools
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
-
----
 
 # 📊 GitHub Analytics
 
