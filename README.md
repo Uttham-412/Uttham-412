@@ -72,14 +72,13 @@ I enjoy combining **AI, backend development, and modern frontend technologies** 
 
 ---
 
-##  Quick Facts
+## Quick Facts
 
--  AIML Undergraduate
--  Interested in Software Development & AI Engineering
--  Based in India
--  Coffee + Code = Productivity
--  Goal: Build impactful AI-powered products
- ---
+-  Artificial Intelligence & Machine Learning Undergraduate
+-  Passionate about Full Stack Development & AI Engineering
+-  Building intelligent software with modern technologies
+-  Continuously learning and improving through real-world projects
+-  Based in Karnataka, India
 
 ##  Tech Stack
 
