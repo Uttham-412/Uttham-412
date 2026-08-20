@@ -1,91 +1,93 @@
-```svg
-<svg width="1280" height="400" viewBox="0 0 1280 400"
-     fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
 
   <defs>
 
     <!-- Background -->
-    <linearGradient id="background"
+    <linearGradient id="bg"
       x1="0" y1="0"
       x2="1280" y2="400"
       gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080A0D"/>
+      <stop offset="0" stop-color="#080A0D"/>
       <stop offset="1" stop-color="#0D1015"/>
     </linearGradient>
 
-    <!-- Very subtle accent -->
+    <!-- Accent -->
     <linearGradient id="accent"
-      x1="80" y1="0"
+      x1="90" y1="0"
       x2="500" y2="0"
       gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6E7CFF"/>
+      <stop offset="0" stop-color="#6E7CFF"/>
       <stop offset="1" stop-color="#9B6CFF"/>
     </linearGradient>
 
-    <!-- Subtle radial light -->
+    <!-- Subtle ambient light -->
     <radialGradient id="ambient"
       cx="0" cy="0"
       r="1"
       gradientUnits="userSpaceOnUse"
       gradientTransform="translate(1050 190) rotate(90) scale(240)">
-      <stop stop-color="#5664FF" stop-opacity="0.07"/>
+      <stop offset="0" stop-color="#5664FF" stop-opacity=".08"/>
       <stop offset="1" stop-color="#5664FF" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Grid -->
+    <!-- Subtle grid -->
     <pattern id="grid"
       width="40"
       height="40"
       patternUnits="userSpaceOnUse">
+
       <path
         d="M40 0H0V40"
+        fill="none"
         stroke="#FFFFFF"
-        stroke-opacity="0.025"
-      />
+        stroke-opacity=".025"/>
+
     </pattern>
 
   </defs>
 
 
-  <!-- ================================================= -->
+  <!-- ============================= -->
   <!-- BACKGROUND -->
-  <!-- ================================================= -->
-
-  <rect width="1280" height="400" fill="url(#background)"/>
-
-  <rect width="1280" height="400" fill="url(#grid)"/>
-
-  <rect width="1280" height="400" fill="url(#ambient)"/>
-
-
-  <!-- ================================================= -->
-  <!-- TOP / BOTTOM BORDER -->
-  <!-- ================================================= -->
+  <!-- ============================= -->
 
   <rect
-    x="0"
-    y="0"
+    width="1280"
+    height="400"
+    fill="url(#bg)"/>
+
+  <rect
+    width="1280"
+    height="400"
+    fill="url(#grid)"/>
+
+  <rect
+    width="1280"
+    height="400"
+    fill="url(#ambient)"/>
+
+
+  <!-- ============================= -->
+  <!-- BORDERS -->
+  <!-- ============================= -->
+
+  <rect
     width="1280"
     height="1"
     fill="#FFFFFF"
-    fill-opacity="0.08"
-  />
+    fill-opacity=".08"/>
 
   <rect
-    x="0"
     y="399"
     width="1280"
     height="1"
     fill="#FFFFFF"
-    fill-opacity="0.08"
-  />
+    fill-opacity=".08"/>
 
 
-  <!-- ================================================= -->
-  <!-- LEFT CONTENT -->
-  <!-- ================================================= -->
-
-  <!-- Small terminal-style indicator -->
+  <!-- ============================= -->
+  <!-- TERMINAL ICON -->
+  <!-- ============================= -->
 
   <rect
     x="92"
@@ -95,30 +97,30 @@
     rx="5"
     fill="#11151C"
     stroke="#FFFFFF"
-    stroke-opacity="0.09"
-  />
+    stroke-opacity=".09"/>
 
   <text
-    x="102"
+    x="101"
     y="108"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#7D8BFF">
+    fill="#7D8BFF"
+    font-family="monospace"
+    font-size="13">
     &gt;_
   </text>
 
 
-  <!-- Name -->
+  <!-- ============================= -->
+  <!-- NAME -->
+  <!-- ============================= -->
 
   <text
     x="92"
     y="190"
-    font-family="Inter, -apple-system, BlinkMacSystemFont,
-                 Segoe UI, sans-serif"
+    fill="#F5F7FA"
+    font-family="Arial, Helvetica, sans-serif"
     font-size="72"
     font-weight="700"
-    letter-spacing="-3"
-    fill="#F5F7FA">
+    letter-spacing="-3">
     UTTHAM
   </text>
 
@@ -131,52 +133,52 @@
     width="58"
     height="3"
     rx="1.5"
-    fill="url(#accent)"
-  />
+    fill="url(#accent)"/>
 
 
-  <!-- Role -->
+  <!-- ============================= -->
+  <!-- ROLE -->
+  <!-- ============================= -->
 
   <text
     x="94"
     y="260"
-    font-family="Inter, -apple-system, BlinkMacSystemFont,
-                 Segoe UI, sans-serif"
+    fill="#D7DAE0"
+    font-family="Arial, Helvetica, sans-serif"
     font-size="21"
-    font-weight="500"
-    fill="#D7DAE0">
+    font-weight="500">
     AI/ML Undergraduate
   </text>
+
 
   <text
     x="94"
     y="292"
-    font-family="Inter, -apple-system, BlinkMacSystemFont,
-                 Segoe UI, sans-serif"
-    font-size="17"
-    fill="#777F8C">
+    fill="#777F8C"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="17">
     Software Engineering • AI-driven Applications
   </text>
 
 
-  <!-- Location -->
+  <!-- ============================= -->
+  <!-- LOCATION -->
+  <!-- ============================= -->
 
   <text
     x="94"
     y="337"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
+    fill="#59616D"
+    font-family="monospace"
     font-size="13"
-    letter-spacing="1"
-    fill="#59616D">
+    letter-spacing="1">
     MANGALORE / KARNATAKA
   </text>
 
 
-  <!-- ================================================= -->
-  <!-- RIGHT — MINIMAL TERMINAL -->
-  <!-- ================================================= -->
-
-  <!-- Outer terminal -->
+  <!-- ============================= -->
+  <!-- RIGHT TERMINAL -->
+  <!-- ============================= -->
 
   <rect
     x="715"
@@ -186,30 +188,21 @@
     rx="12"
     fill="#0A0D12"
     stroke="#FFFFFF"
-    stroke-opacity="0.09"
-  />
+    stroke-opacity=".09"/>
 
 
   <!-- Terminal header -->
 
-  <rect
-    x="715"
-    y="72"
-    width="455"
-    height="42"
-    rx="12"
-    fill="#0E1218"
-  />
+  <path
+    d="M715 84
+       Q715 72 727 72
+       H1158
+       Q1170 72 1170 84
+       V114
+       H715
+       Z"
+    fill="#0E1218"/>
 
-  <!-- Fix bottom corners of header -->
-
-  <rect
-    x="715"
-    y="102"
-    width="455"
-    height="12"
-    fill="#0E1218"
-  />
 
   <!-- Window buttons -->
 
@@ -217,22 +210,19 @@
     cx="740"
     cy="93"
     r="4"
-    fill="#3B414C"
-  />
+    fill="#3B414C"/>
 
   <circle
     cx="756"
     cy="93"
     r="4"
-    fill="#3B414C"
-  />
+    fill="#3B414C"/>
 
   <circle
     cx="772"
     cy="93"
     r="4"
-    fill="#3B414C"
-  />
+    fill="#3B414C"/>
 
 
   <!-- Terminal title -->
@@ -240,30 +230,32 @@
   <text
     x="800"
     y="98"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="11"
-    fill="#59616D">
+    fill="#59616D"
+    font-family="monospace"
+    font-size="11">
     uttham@developer:~
   </text>
 
 
-  <!-- Terminal content -->
+  <!-- ============================= -->
+  <!-- TERMINAL CONTENT -->
+  <!-- ============================= -->
 
   <text
     x="750"
     y="151"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#727C8B">
+    fill="#727C8B"
+    font-family="monospace"
+    font-size="13">
     $
   </text>
 
   <text
     x="766"
     y="151"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#B7BFCA">
+    fill="#B7BFCA"
+    font-family="monospace"
+    font-size="13">
     whoami
   </text>
 
@@ -271,9 +263,9 @@
   <text
     x="750"
     y="177"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#8A94A3">
+    fill="#8A94A3"
+    font-family="monospace"
+    font-size="13">
     uttham
   </text>
 
@@ -281,18 +273,18 @@
   <text
     x="750"
     y="210"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#727C8B">
+    fill="#727C8B"
+    font-family="monospace"
+    font-size="13">
     $
   </text>
 
   <text
     x="766"
     y="210"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#B7BFCA">
+    fill="#B7BFCA"
+    font-family="monospace"
+    font-size="13">
     status
   </text>
 
@@ -300,18 +292,18 @@
   <text
     x="750"
     y="237"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#687281">
+    fill="#687281"
+    font-family="monospace"
+    font-size="13">
     role
   </text>
 
   <text
     x="820"
     y="237"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#7D8BFF">
+    fill="#7D8BFF"
+    font-family="monospace"
+    font-size="13">
     "software_engineer"
   </text>
 
@@ -319,18 +311,18 @@
   <text
     x="750"
     y="260"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#687281">
+    fill="#687281"
+    font-family="monospace"
+    font-size="13">
     focus
   </text>
 
   <text
     x="820"
     y="260"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#B18AFF">
+    fill="#B18AFF"
+    font-family="monospace"
+    font-size="13">
     "AI + real_world_apps"
   </text>
 
@@ -338,20 +330,21 @@
   <text
     x="750"
     y="293"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#727C8B">
+    fill="#727C8B"
+    font-family="monospace"
+    font-size="13">
     $
   </text>
 
   <text
     x="766"
     y="293"
-    font-family="SFMono-Regular, Consolas, Liberation Mono, monospace"
-    font-size="13"
-    fill="#B7BFCA">
+    fill="#B7BFCA"
+    font-family="monospace"
+    font-size="13">
     build --something-useful
   </text>
+
 
   <!-- Cursor -->
 
@@ -361,13 +354,12 @@
     width="7"
     height="15"
     fill="#7180FF"
-    fill-opacity="0.8"
-  />
+    fill-opacity=".8"/>
 
 
-  <!-- ================================================= -->
-  <!-- DECORATIVE VERTICAL ACCENT -->
-  <!-- ================================================= -->
+  <!-- ============================= -->
+  <!-- LEFT ACCENT -->
+  <!-- ============================= -->
 
   <line
     x1="126"
@@ -375,43 +367,23 @@
     x2="126"
     y2="326"
     stroke="url(#accent)"
-    stroke-width="1"
-    stroke-opacity="0.5"
-  />
+    stroke-opacity=".5"/>
 
 
-  <!-- ================================================= -->
-  <!-- SMALL TECHNICAL MARKS -->
-  <!-- ================================================= -->
-
-  <g stroke="#FFFFFF" stroke-opacity="0.07">
-
-    <line x1="1200" y1="70" x2="1200" y2="120"/>
-    <line x1="1180" y1="70" x2="1180" y2="100"/>
-
-    <line x1="1190" y1="350" x2="1230" y2="350"/>
-    <line x1="1210" y1="360" x2="1240" y2="360"/>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- FINAL ACCENT -->
-  <!-- ================================================= -->
+  <!-- ============================= -->
+  <!-- SMALL DECORATION -->
+  <!-- ============================= -->
 
   <circle
     cx="1180"
     cy="340"
     r="2"
-    fill="#7D8BFF"
-  />
+    fill="#7D8BFF"/>
 
   <circle
     cx="1200"
     cy="340"
     r="2"
-    fill="#9B6CFF"
-  />
+    fill="#9B6CFF"/>
 
 </svg>
-```
